@@ -1,2 +1,2 @@
 An exmaple of using key press event to move a rectangle which is drawn by Canvas in python.
-!Snapshot(rectpy.png)
+![Screenshot](rectpy.png)
